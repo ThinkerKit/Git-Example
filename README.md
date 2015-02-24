@@ -3,4 +3,4 @@ Git Tutorial
 
 Testing Git
 
-Conflicting Change Yo
+Try conflicting change
